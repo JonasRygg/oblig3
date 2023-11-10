@@ -9,7 +9,7 @@ public abstract class Innlegg {
 	private String dato;
 	private int antallLikes;
 	
-	// TODO - deklarering av objektvariable
+	
 	
 	public Innlegg() {
 		
